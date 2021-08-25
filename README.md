@@ -1,2 +1,2 @@
 # Crawler
-Crawler to get the ads from the websites such as OLX and PakWheel; 
+Crawler to get the ads from the websites such as OLX and PakWheel
