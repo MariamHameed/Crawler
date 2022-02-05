@@ -1,5 +1,2 @@
 # Crawler
-Crawler to get the ads from websites such as Pakwheels and OLX.
-Multithreads is used to get the more number of ads from websites in less time. 
-Using proxy the IP address is change everytime and IP address never block. 
-All the data get through crawler saves into the MySql Database. 
+Crawler to get the ads from websites such as Pakwheels and OLX. Multithreading is used to get more ads from websites in less time. Using Proxy the IP address changes every time the IP address is never blocked. All the data get through crawler saves into the MySql Database.
